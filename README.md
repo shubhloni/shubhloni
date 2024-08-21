@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Loni</h1>
 <h3 align="center">Experienced Web Application Developer with a strong focus on creating high-quality, user-centric web applications. Expertise in front-end technologies and a proven track record of delivering engaging, accessible, and responsive web applications. Skilled in internationalization, localization, and performance optimization to ensure seamless user experiences across diverse audiences and devices.</h3>
+<br>
 <img align="right" alt="Coding..." width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhloni&label=Profile%20views&color=0e75b6&style=flat" alt="shubhloni" /> </p>
 
 - 🔭 I’m currently working on **React, Redux, Zustand, React-Query**
 
@@ -15,7 +14,7 @@
 - 📫 How to reach me **lonishubham@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhloni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhloni" height="30" width="40" /></a>
