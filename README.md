@@ -1,9 +1,9 @@
-![MasterHead](https://camo.githubusercontent.com/c91a24cb484deb772b7cf876b7847886253f6b3872654a50733883802f008e56/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
+![MasterHead](/assets/web_dev_banner.gif)
 
 <h1 align="center">Hi 👋, I'm Shubham Loni</h1>
 <h3 align="center">Experienced Web Application Developer with a strong focus on creating high-quality, user-centric web applications. Expertise in front-end technologies and a proven track record of delivering engaging, accessible, and responsive web applications. Skilled in internationalization, localization, and performance optimization to ensure seamless user experiences across diverse audiences and devices.</h3>
 <br>
-<img align="right" alt="Coding..." width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="right" alt="Coding..." width="400" src="/assets/programmer.gif">
 
 - 🔭 I’m currently working on **React, Redux, Zustand, React-Query**
 
@@ -16,7 +16,7 @@
 - 📫 How to reach me **lonishubham@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
-  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhloni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhloni" height="30" width="40" /></a>
